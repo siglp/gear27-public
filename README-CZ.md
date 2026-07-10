@@ -209,7 +209,9 @@ Pokud je zde někdo, kdo může a chtěl by pomoci s překladem do jiného jazyk
 ## Verze
 ### Releasnuté (vydané)
 - #### 2.1.0 - [ 10.7.2026 ]
+    - Přidán celkový počet použitých převodů do aktivity
     - Podpora pro nové zařízení (D2 Mach 2 Pro)
+    - Podpora pro případný DEBUG aplikace
     - Odstraněna kompatibilita pro zařízení, která podle manuálu nepodporují rozhraní (API) pro řazení (Edge Explore 2, Forerunner 1xx, 2xx, 5xx, 6xx, Instinct 3 apod.)
     - Přesun projektu na GitHub
 - #### 2.0.0 - [ 9.12.2025 ]
@@ -279,7 +281,7 @@ Pokud je zde někdo, kdo může a chtěl by pomoci s překladem do jiného jazyk
     - Prvotní testovací release - nebyl veřejný
 
 ### Plánované (budoucí)
-- #### 1.x.y ??? - [ ??? ]
+- #### 2.x.y ??? - [ ??? ]
     - ??? Bugfix.
     - ??? Možnost definovat velikost fontů a zarovnání.
     - ??? Stav baterie.

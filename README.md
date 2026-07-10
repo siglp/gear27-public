@@ -211,7 +211,9 @@ If there is someone who can and would like to help with translation into another
 ## Versions
 ### Released
 - #### 2.1.0 - [ 10.7.2026 ]
+    - Added total count of used gears into activity
     - Support for new device (D2 Mach 2 Pro)
+    - Support for DEBUG of application (if needed)
     - Removed compatibility for devices which does not support shifting API according to manual (Edge Explore 2, Forerunner 1xx, 2xx, 5xx, 6xx, Instinct 3 etc.)
     - Moved project to GitHub
 - #### 2.0.0 - [ 9.12.2025 ]
@@ -281,7 +283,7 @@ If there is someone who can and would like to help with translation into another
     - Initial testing release - not public.
 
 ### Planned (future)
-- #### 1.x.y ??? - [ ??? ]
+- #### 2.x.y ??? - [ ??? ]
     - ??? Bugfix.
     - ??? Possibility for define font size and align.
     - ??? Battery status.
