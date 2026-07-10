@@ -10,14 +10,6 @@ Cílem je, aby toto pole bylo konfigurovatelné. Můžete se rozhodnout, které 
 
 Testováno je na řazení SRAM AXS a realných  Garmin zařízeních Fenix 5x Plus, Fenix 7x Pro a Edge MTB.
 
-[//]: # (GARMIN)
-## Projektová WiKi
-
-Více informací a detaily k nastavení lze nalézt na projektové WiKi zde: https://bitbucket.org/petr27s/gear27/wiki/Home
-
-[//]: # (GARMIN)
-
-[//]: # (WIKI)
 ## Nastavení
 - #### Barva pozadí
     - Definovaná barva pozadí nebo automatická - vybere zařízení (černobílé displeje mají k dispozici jen bílou a černou)
@@ -123,9 +115,6 @@ Více informací a detaily k nastavení lze nalézt na projektové WiKi zde: htt
     - Pokud dojde ke ztrátě spojení mezi řazením a zařízením Garmin, tak použít poslední známou hodnotu a ne '-'
         - Ano / Ne
 
-[//]: # (WIKI)
-
-[//]: # (WIKI)
 ## Podporovaná zařízení
 
 ### Plná podpora nahrávaní aktivity
@@ -204,10 +193,8 @@ Zařízení, která mají jen 32K paměti pro pole NEJSOU od verze 2.0.0 podporo
 ### Garmin Edge Explorer, Edge Explorer 2, Forerunner 1xx, 2xx, 6xx
 Garmin Edge Explorer, Garmin Edge Explorer 2, Forerunner 1xx, 2xx, 6xx nepodporují standardní rozhraní pro řazení. Pole na nich NEbude fungovat a zařízení tak NEjsou podporována.
 
-[//]: # (WIKI)
-
 ## Chyby a návrhy
-Chyby a návrhy můžete zadávat zde: https://bitbucket.org/petr27s/gear27/
+Chyby a návrhy můžete zadávat zde: https://github.com/siglp/gear27-public/issues
 
 Prosím vždy o vyplnění:
 - Verzi aplikace Gear27.

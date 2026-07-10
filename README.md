@@ -10,14 +10,6 @@ The goal of this field is to be customizable. You can choose, what values are im
 
 It is tested on SRAM AXS shifting and real Garmin devices Fenix 5x Plus, Fenix 7x Pro and Edge MTB.
 
-[//]: # (GARMIN)
-## Project WiKi
-
-More information and details for setting could be found on project WiKi here: https://bitbucket.org/petr27s/gear27/wiki/Home
-
-[//]: # (GARMIN)
-
-[//]: # (WIKI)
 ## Settings
 - #### Background color
     - Define background color or let device choose automatically (B&W displays has only Black and White colors)
@@ -123,9 +115,6 @@ More information and details for setting could be found on project WiKi here: ht
     - If connection is lost, use last known values and not '-'
         - Yes / No
 
-[//]: # (WIKI)
-
-[//]: # (WIKI)
 ## Supported devices
 
 ### Full activity recording supported
@@ -194,7 +183,6 @@ Watches which should record lap fields and session usage of gears.
  - 	Venu® 4 45mm / D2™ Air X15
  - 	Venu® X1
 
-
 ### Not supported because of very small (32K) memory
 Watches / devices with only 32K for field memory are NO MORE supported (from version 2.0.0). Please use **Gear27-32K** forked from 1.12.0 version.
 
@@ -208,7 +196,7 @@ The Garmin Edge Explorer, Garmin Edge Explorer 2, Forerunner 1xx, 2xx and 6xx do
 [//]: # (WIKI)
 
 ## Issues and proposals
-You can report issues and proposals here: https://bitbucket.org/petr27s/gear27/
+You can report issues and proposals here: https://github.com/siglp/gear27-public/issues
 
 Please always fill:
 - Gear27 application version.
