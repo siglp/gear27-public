@@ -1,7 +1,6 @@
 # Gear27
 
-[Czech version](https://github.com/siglp/gear27-public/blob/main/README-CZ.md)
-
+[Czech version (Česká verze)](https://github.com/siglp/gear27-public/blob/main/README-CZ.md)
 
 ## Data field for Garmin
 
