@@ -1,5 +1,7 @@
 # Gear27
 
+[Czech version](https://github.com/siglp/gear27-public)
+
 ## Datové pole pro Garmin
 
 Pokud se vám pole líbí, ohodnoťte ho prosím!
