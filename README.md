@@ -164,7 +164,14 @@ Watches which should record lap fields and session usage of gears.
  - 	fēnix® 8 Pro 47mm / 51mm / MicroLED / quatix® 8 Pro 47mm / 51mm
  - 	fēnix® 8 Solar 47mm
  - 	fēnix® 8 Solar 51mm / tactix® 8 Solar 51mm
- - 	fēnix® E
+ -	fēnix® 9 43mm
+ - 	fēnix® 9 47mm / 51mm
+ - 	fēnix® 9 Pro 43mm
+ - 	fēnix® 9 Pro 47mm
+ - 	fēnix® 9 Pro 51mm
+ - 	fēnix® 9 Pro Solar 47mm
+ - 	fēnix® 9 Pro Solar 51mm
+ -	fēnix® E
  - 	Forerunner® 745
  - 	Forerunner® 945 LTE
  - 	Forerunner® 945
@@ -210,6 +217,8 @@ If there is someone who can and would like to help with translation into another
 
 ## Versions
 ### Released
+- #### 2.2.0 - [ 28.8.2026 ]
+    - Support for new device (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 43mm / 47mm / 51mm, Fenix 9 Pro Solar 47mm / 51mm)
 - #### 2.1.0 - [ 10.7.2026 ]
     - Added total count of used gears into activity
     - Support for new device (D2 Mach 2 Pro)

@@ -164,6 +164,13 @@ Zařízení, která nahravájí statistiky použití převodů během kol a cel�
  - 	fēnix® 8 Pro 47mm / 51mm / MicroLED / quatix® 8 Pro 47mm / 51mm
  - 	fēnix® 8 Solar 47mm
  - 	fēnix® 8 Solar 51mm / tactix® 8 Solar 51mm
+ -	fēnix® 9 43mm
+ - 	fēnix® 9 47mm / 51mm
+ - 	fēnix® 9 Pro 43mm
+ - 	fēnix® 9 Pro 47mm
+ - 	fēnix® 9 Pro 51mm
+ - 	fēnix® 9 Pro Solar 47mm
+ - 	fēnix® 9 Pro Solar 51mm
  - 	fēnix® E
  - 	Forerunner® 745
  - 	Forerunner® 945 LTE
@@ -208,6 +215,8 @@ Pokud je zde někdo, kdo může a chtěl by pomoci s překladem do jiného jazyk
 
 ## Verze
 ### Releasnuté (vydané)
+- #### 2.2.0 - [ 28.8.2026 ]
+    - Podpora pro nové zařízení (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 43mm / 47mm / 51mm, Fenix 9 Pro Solar 47mm / 51mm)
 - #### 2.1.0 - [ 10.7.2026 ]
     - Přidán celkový počet použitých převodů do aktivity
     - Podpora pro nové zařízení (D2 Mach 2 Pro)
