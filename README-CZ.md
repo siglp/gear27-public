@@ -215,8 +215,10 @@ Pokud je zde někdo, kdo může a chtěl by pomoci s překladem do jiného jazyk
 
 ## Verze
 ### Releasnuté (vydané)
+- #### 2.3.0 - [ 1.9.2026 ]
+    - Podpora pro nová zařízení (Fenix 9 Pro 43mm / 47mm, Fenix 9 Pro Solar 47mm / 51mm)
 - #### 2.2.0 - [ 28.8.2026 ]
-    - Podpora pro nové zařízení (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 43mm / 47mm / 51mm, Fenix 9 Pro Solar 47mm / 51mm)
+    - Podpora pro nová zařízení (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 51mm)
 - #### 2.1.0 - [ 10.7.2026 ]
     - Přidán celkový počet použitých převodů do aktivity
     - Podpora pro nové zařízení (D2 Mach 2 Pro)

@@ -217,8 +217,10 @@ If there is someone who can and would like to help with translation into another
 
 ## Versions
 ### Released
+- #### 2.3.0 - [ 1.9.2026 ]
+    - Support for new devices (Fenix 9 Pro 43mm / 47mm, Fenix 9 Pro Solar 47mm / 51mm)
 - #### 2.2.0 - [ 28.8.2026 ]
-    - Support for new device (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 43mm / 47mm / 51mm, Fenix 9 Pro Solar 47mm / 51mm)
+    - Support for new devices (Fenix 9 43mm / 47mm / 51mm, Fenix 9 Pro 51mm)
 - #### 2.1.0 - [ 10.7.2026 ]
     - Added total count of used gears into activity
     - Support for new device (D2 Mach 2 Pro)
