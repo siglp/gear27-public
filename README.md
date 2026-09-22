@@ -10,7 +10,7 @@ Gear27 is data field for Garmin. It is used for showing and recording data from 
 
 The goal of this field is to be customizable. You can choose, what values are important for you and let them show. For example, if you want to see just rear gear index, you can disable other data (gear sizes, label etc.).
 
-It is tested on SRAM AXS shifting and real Garmin devices Fenix 5x Plus, Fenix 7x Pro and Edge MTB.
+It is tested on SRAM AXS shifting and real Garmin devices Fenix 5x Plus, Fenix 7x Pro, Fenix 9 Pro (51 mm) and Edge MTB.
 
 ## Settings
 - #### Background color

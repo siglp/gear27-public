@@ -10,7 +10,7 @@ Gear27 je datové pole pro zařízení Garmin. Slouží pro zobrazovaní a zapis
 
 Cílem je, aby toto pole bylo konfigurovatelné. Můžete se rozhodnout, které hodnoty jsou důležité a ty si nechat zobrazovat. Například pokud chcete vidět jen číslo zadního pastorku, tak můžete "vypnout" zobrazovaní ostatních dat (velikost pastorku, název pole atd.).
 
-Testováno je na řazení SRAM AXS a realných  Garmin zařízeních Fenix 5x Plus, Fenix 7x Pro a Edge MTB.
+Testováno je na řazení SRAM AXS a realných  Garmin zařízeních Fenix 5x Plus, Fenix 7x Pro, Fenix 9 Pro (51 mm) a Edge MTB.
 
 ## Nastavení
 - #### Barva pozadí
