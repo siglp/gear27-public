@@ -215,6 +215,8 @@ Pokud je zde někdo, kdo může a chtěl by pomoci s překladem do jiného jazyk
 
 ## Verze
 ### Releasnuté (vydané)
+- #### 2.4.0 - [ 22.9.2026 ]
+    - Podpora (experimentální) pro Shimano Di2
 - #### 2.3.0 - [ 1.9.2026 ]
     - Podpora pro nová zařízení (Fenix 9 Pro 43mm / 47mm, Fenix 9 Pro Solar 47mm / 51mm)
 - #### 2.2.0 - [ 28.8.2026 ]
